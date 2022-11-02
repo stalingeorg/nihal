@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/nihal/static/css/main.4f0e66b0.css",
-    "main.js": "/nihal/static/js/main.ad2dd193.js",
+    "main.js": "/nihal/static/js/main.69fdd62b.js",
     "static/media/work.png": "/nihal/static/media/work.c1c29e9696e7c2309cdb.png",
     "static/media/img-9.jpg": "/nihal/static/media/img-9.f97f588f3670715d01b2.jpg",
     "static/media/intro-bg.jpg": "/nihal/static/media/intro-bg.cf2364827d8b8a98642e.jpg",
     "index.html": "/nihal/index.html",
     "main.4f0e66b0.css.map": "/nihal/static/css/main.4f0e66b0.css.map",
-    "main.ad2dd193.js.map": "/nihal/static/js/main.ad2dd193.js.map"
+    "main.69fdd62b.js.map": "/nihal/static/js/main.69fdd62b.js.map"
   },
   "entrypoints": [
     "static/css/main.4f0e66b0.css",
-    "static/js/main.ad2dd193.js"
+    "static/js/main.69fdd62b.js"
   ]
 }
